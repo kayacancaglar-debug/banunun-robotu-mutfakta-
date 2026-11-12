@@ -1,0 +1,10 @@
+BANU'NUN ROBOTU MUTFAKTA — GITHUB'A YUKLEME
+
+1. Bu ZIP dosyasini Windows'ta ayikla.
+2. GitHub deposunu ac: https://github.com/kayacancaglar-debug/banunun-robotu-mutfakta-
+3. Add file > Upload files.
+4. Ayiklanmis klasorun ICINDEKI dosya ve klasorleri (ozellikle .github, app, build.gradle, settings.gradle) yukleme alanina surukle.
+5. Commit changes'e bas.
+6. Actions sekmesinden Banu Android APK calismasini ac. Basarili olursa Artifacts'taki APK zipini indir.
+
+UYARI: Bu dosya henuz test edilmis bir APK degildir. Derleme logunda hata varsa paylas.
