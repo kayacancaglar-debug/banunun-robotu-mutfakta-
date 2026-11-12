@@ -22,7 +22,7 @@ jobs:
           java-version: '17'
 
       - name: Android SDK
-        run: sdkmanager --version
+        uses: android-actions/setup-android@v4
 
       - name: Gradle kur
         uses: gradle/actions/setup-gradle@v4
